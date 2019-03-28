@@ -627,5 +627,5 @@ function printOnSuccess (answers) {
   console.log(`    Run: ${chalk.yellow('npm run prod')} (to build frontend in production mode)\n`)
   console.log(`\n#================================\n`)
   console.log(`\t\t\t${emoji.get('star2')} ${chalk.hex('#00ffe7').visible('Thank you for using this package')} ${emoji.get('star2')}`) // returns the emoji code for coffee (displays emoji on terminals that support it)
-  console.log(`\t\t${emoji.get('bulb')} ${chalk.hex('#00ffe7').visible('Creator: Mai Trung Duc <maitrungduc1410@gmail.com>')} ${emoji.get('bulb')}`)
+  console.log(`\t\t${emoji.get('bulb')} ${chalk.hex('#00ffe7').visible('Creator: Mai Trung Duc <maitrungduc1410@gmail.com>')} ${emoji.get('bulb')}\n`)
 }
