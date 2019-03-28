@@ -15,5 +15,9 @@
     "inquirer": "^6.2.2",
     "chalk": "^2.4.2",
     "node-emoji": "^1.10.0"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/maitrungduc1410/nodejs-generator"
   }
 }
