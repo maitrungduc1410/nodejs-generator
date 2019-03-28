@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-generator",
+  "version": "1.0.1",
+  "description": "A package to generate project with NodeJS as backend and React/Vue as frontend combined into one, comes with Babel, Eslint, Webpack,...",
+  "main": "index.js",
+  "bin": {
+    "nodejs-generator": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mai Trung Duc <maitrungduc1410@gmail.com> (https://maitrungduc1410.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "chalk": "^2.4.2",
+    "node-emoji": "^1.10.0"
+  }
+}
