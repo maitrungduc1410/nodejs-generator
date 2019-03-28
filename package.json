@@ -1,6 +1,6 @@
 {
   "name": "nodejs-generator",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Setup NodeJS with your favorite frontend frameworks (ReactJS, VueJS) in same host, same port by running one command.",
   "main": "index.js",
   "bin": {
