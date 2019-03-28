@@ -266,7 +266,7 @@ inquirer
     }
 
     // copy gitignore
-    execSync(`cp ${__dirname}/templates/.gitignore ${CURR_DIR}/${answers.project_name}`)
+    execSync(`cp ${__dirname}/templates/git_ignore ${CURR_DIR}/${answers.project_name}/.gitignore`)
 
     writeContentToWebpackFile(answers)
     writeContentToPackageJson(answers)
