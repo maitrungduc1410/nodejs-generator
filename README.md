@@ -1,9 +1,9 @@
 # NodeJS Generator
 
-Setup NodeJS with your favorite frontend frameworks (ReactJS, VueJS) in same host, same port by running one command
+Setup NodeJS with your favorite frontend frameworks (ReactJS, VueJS) in same host, same port by running one command.
 
 ## Getting Started
-When building project, usually you will want to run your backend and frontend in one host and port, not to proxy it. This tool is for you
+When building project, usually you will want to run your backend and frontend in one host and port, not to proxy it. This tool is for you.
 
 This project helps you setup your NodeJS app with frontend frameworks (React, VueJS) in same folder, run on same host, same port. It comes with other setups like Webpack, Babel, CSS module, SCSS, Eslint, ...
 
@@ -54,6 +54,6 @@ If there's any problem, question or any upgrade I should make, just create an is
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/maitrungduc1410/nodejs-generator/blob/master/LICENSE.md) file for details.
 
 ## Acknowledgments
