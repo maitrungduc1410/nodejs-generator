@@ -1,6 +1,6 @@
 {
   "name": "nodejs-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package to generate project with NodeJS as backend and React/Vue as frontend combined into one, comes with Babel, Eslint, Webpack,...",
   "main": "index.js",
   "bin": {
