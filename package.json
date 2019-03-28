@@ -1,6 +1,6 @@
 {
   "name": "nodejs-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A package to generate project with NodeJS as backend and React/Vue as frontend combined into one, comes with Babel, Eslint, Webpack,...",
   "main": "index.js",
   "bin": {
@@ -17,7 +17,7 @@
     "node-emoji": "^1.10.0"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/maitrungduc1410/nodejs-generator"
+    "type": "git",
+    "url": "https://github.com/maitrungduc1410/nodejs-generator"
   }
 }
