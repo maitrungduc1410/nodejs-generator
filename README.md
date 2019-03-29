@@ -1,9 +1,9 @@
 # NodeJS Generator
 
-Setup NodeJS with your favorite frontend frameworks (ReactJS, VueJS) in same host, same port by running one command.
+Setup NodeJS-Express project with your favorite frontend frameworks (ReactJS, VueJS) and run on same host, same port by running one command.
 
 ## Getting Started
-When building project, usually you may want to run your backend and frontend in one host and port, not to proxy it. If that what you want, so this tool is for you.
+When building project, usually you may want to run your backend and frontend in one host and port, not to proxy it. If that's what you're looking for, so this tool is for you.
 
 This project helps you setup your NodeJS app with frontend frameworks (React, VueJS) in same folder, run on same host, same port. It comes with other setups like Webpack, Babel, CSS module, SCSS, Eslint, ...
 
