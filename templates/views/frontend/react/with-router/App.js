@@ -2,10 +2,11 @@ import React from 'react'
 import { Route, Switch } from 'react-router-dom'
 import Home from './components/Home'
 import About from './components/About'
+import styles from './App.module.css'
 
 function App (props) {
   return (
-    <div>
+    <div className={styles['App']}>
       <Switch>
         <Route
           exact

@@ -1,4 +1,5 @@
 node_modules
 index.main.js
+index.main.old.js
 .DS_Store
 test.js
