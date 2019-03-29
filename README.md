@@ -40,6 +40,9 @@ When running in production, I recommend:
 - Using a process manager to manage your nodejs app. Like PM2 (I love this), Forever, ...
 - You should running your app behind a reverse proxy like Nginx. Configuration your Nginx for Nodejs like [this link](https://gist.github.com/maitrungduc1410/2e3bf24a2acde5cd753e6f07b06e625f) 
 
+### Custom
+If you want to change any configuration to fit your own demand, feel free to change the config in `webpack.config.js`, but make sure you know what you do.
+
 ## Built With
 
 This tool is build on top of `express-generator`.
