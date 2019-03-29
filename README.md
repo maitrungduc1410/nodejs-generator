@@ -36,9 +36,9 @@ Then open your browser at port of your project (default is `3000`)
 
 ### Running in production
 When running in production, I recommend:
-- Using a process manager to manage your app. Like PM2 (I love this), Forever, ...
 - Building your frontend in production mode by running: `npm run prod` or `npm run production`
-- You should running your app behind a reverse proxy like Nginx. Configuration your Nginx like [this link](https://gist.github.com/maitrungduc1410/2e3bf24a2acde5cd753e6f07b06e625f) 
+- Using a process manager to manage your nodejs app. Like PM2 (I love this), Forever, ...
+- You should running your app behind a reverse proxy like Nginx. Configuration your Nginx for Nodejs like [this link](https://gist.github.com/maitrungduc1410/2e3bf24a2acde5cd753e6f07b06e625f) 
 
 ## Built With
 
