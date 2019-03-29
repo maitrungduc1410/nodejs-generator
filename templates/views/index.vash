@@ -1,6 +1,8 @@
 @html.extend('layout', function(model) {
   @html.block('content', function(model) {
     <div id="app"></div>
-    <script src="/javascripts/app.js"></script>
+    <script src="<%= @model.assets.runtime.js %>"></script>
+    <script src="<%= @model.assets.vendors.js %>"></script>
+    <script src="<%= @model.assets.main.js %>"></script>
   })
 })
